@@ -1,15 +1,15 @@
 # 👋 Hello, I'm Sardorbek!
-- 🌱 Mastering: React, TailwindCSS
-- 🧑‍💻 coder: JavaScript
-- 💻 Working on: Web development projects
-- 🌐 Check out my portfolio: https://cvkhuvondikhov.netlify.app/
+- 💻 **Working on:** Web development projects
+- 🧑‍💻 **Coder:** JavaScript
+- 🌱 **UI:** React, TailwindCSS
+- 🌐 **Check out my portfolio:** https://cvkhuvondikhov.netlify.app/
 ## 📬 Contact me:
 [![Email](https://img.shields.io/badge/Email-quvondiqovs06%40gmail.com-blue?logo=gmail&logoColor=white)](mailto:quvondiqovs06@gmail.com)  
 [![Telegram](https://img.shields.io/badge/Telegram-@Sardorbek_deve1oper-blue?logo=telegram&logoColor=white)](https://t.me/Sardorbek_deve1oper)  
 [![Instagram](https://img.shields.io/badge/Instagram-sardorbek_deve1oper-blue?logo=instagram&logoColor=white)](https://www.instagram.com/sardorbek_deve1oper/profilecard)  
 [![GitHub](https://img.shields.io/badge/GitHub-Sardorbek--Kuvondikov-blue?logo=github&logoColor=white)](https://github.com/Sardorbek-Kuvondikov?tab=repositories)
 
-## 🛠️ My Tech Stack
+## 🛠️ My Skills
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
 [![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/)
