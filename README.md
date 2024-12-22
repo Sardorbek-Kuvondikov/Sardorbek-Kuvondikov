@@ -3,7 +3,7 @@
 - 🧑‍💻 **Coder:** JavaScript
 - 🌱 **UI:** React, TailwindCSS
 - 🌐 **Check out my portfolio:** https://cvkhuvondikhov.netlify.app/
-## 📬 Contact me:
+## 📬 Contact Me:
 [![Email](https://img.shields.io/badge/Email-quvondiqovs06%40gmail.com-blue?logo=gmail&logoColor=white)](mailto:quvondiqovs06@gmail.com)  
 [![Telegram](https://img.shields.io/badge/Telegram-@Sardorbek_deve1oper-blue?logo=telegram&logoColor=white)](https://t.me/Sardorbek_deve1oper)  
 [![Instagram](https://img.shields.io/badge/Instagram-sardorbek_deve1oper-blue?logo=instagram&logoColor=white)](https://www.instagram.com/sardorbek_deve1oper/profilecard)  
