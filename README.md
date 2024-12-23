@@ -19,4 +19,3 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
-![Heatmap Image](https://softwaredotcom.gallerycdn.vsassets.io/extensions/softwaredotcom/software/2.6.12/1648140449834/code-time-heatmap.png)
