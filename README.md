@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Sardorbek Khuvondikhov
 Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in creating innovative solutions and contributing to open-source projects.
-- 💻 **Working on:** Web development projects
+- 💻 **Currently working on:** Developing web applications with modern JavaScript frameworks.
 - 🧑‍💻 **Coder:** JavaScript
-- 🌱 **UI:** React, TailwindCSS
+- 🌱 **UI/Design tools:** React, Material-UI, Ant-Design, Redux TailwindCSS
 - 🌐 **Check out my portfolio:** https://cvkhuvondikhov.netlify.app/
 
 ## 🔭 What I'm Working On
@@ -11,15 +11,12 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - **Learning and Growth:** Continuously learning new technologies and improving my skills in software development.
 
 ## 🌱 What I'm Learning
-- **Machine Learning:** Exploring machine learning algorithms and working on projects that involve data analysis and predictive modeling.
-- **Cloud Computing:** Gaining expertise in cloud platforms like AWS, Azure, and Google Cloud.
-- **Web Development:** Enhancing my skills in modern web development frameworks such as React, Angular, and Vue.js.
+- **TypeScript:** TypeScript checks data types at code time, allowing programmers to detect errors before they occur in the program.
   
 ## 💬 Ask Me About
 - Software development best practices
 - Open-source contributions
 - Web development technologies
-- Machine learning and data science
   
 ## 📬 How to Reach Me:
 [![Email](https://img.shields.io/badge/Email-quvondiqovs06%40gmail.com-blue?logo=gmail&logoColor=white)](mailto:quvondiqovs06@gmail.com)  
@@ -42,6 +39,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
+
 
 ## 📈 GitHub Stats
 
