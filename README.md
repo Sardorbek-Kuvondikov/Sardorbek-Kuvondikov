@@ -25,9 +25,9 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 [![GitHub](https://img.shields.io/badge/GitHub-Sardorbek--Kuvondikov-blue?logo=github&logoColor=white)](https://github.com/Sardorbek-Kuvondikov?tab=repositories)
 
 ## ⚡ Fun Facts
-- I love solving coding challenges and participating in hackathons.
-- I'm an avid reader and enjoy exploring new books on technology and personal development.
-- In my free time, I like to travel and experience different cultures.
+- I enjoy writing code and solving problems in code in different ways.
+- I like to solve problems.
+- In my free time, I enjoy traveling, watching movies, studying historical, stories, and research.
 
 ## 🛠️ Technologies & Tools
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
