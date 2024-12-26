@@ -17,17 +17,18 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - Software development best practices
 - Open-source contributions
 - Web development technologies
-  
+- 
+## ⚡ Fun Facts
+- I enjoy writing code and solving problems in code in different ways.
+- I like to solve problems.
+- In my free time, I enjoy traveling, watching movies, studying historical, stories, and research.
+
 ## 📬 How to Reach Me:
 [![Email](https://img.shields.io/badge/Email-quvondiqovs06%40gmail.com-blue?logo=gmail&logoColor=white)](mailto:quvondiqovs06@gmail.com)  
 [![Telegram](https://img.shields.io/badge/Telegram-@Sardorbek_deve1oper-blue?logo=telegram&logoColor=white)](https://t.me/Sardorbek_deve1oper)  
 [![Instagram](https://img.shields.io/badge/Instagram-sardorbek_deve1oper-blue?logo=instagram&logoColor=white)](https://www.instagram.com/sardorbek_deve1oper/profilecard)  
 [![GitHub](https://img.shields.io/badge/GitHub-Sardorbek--Kuvondikov-blue?logo=github&logoColor=white)](https://github.com/Sardorbek-Kuvondikov?tab=repositories)
 
-## ⚡ Fun Facts
-- I enjoy writing code and solving problems in code in different ways.
-- I like to solve problems.
-- In my free time, I enjoy traveling, watching movies, studying historical, stories, and research.
 
 ## 🛠️ Technologies & Tools
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
