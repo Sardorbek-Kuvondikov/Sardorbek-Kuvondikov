@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - Software development best practices
 - Open-source contributions
 - Web development technologies
-- 
+  
 ## ⚡ Fun Facts
 - I enjoy writing code and solving problems in code in different ways.
 - I like to solve problems.
@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 [![GitHub](https://img.shields.io/badge/GitHub-Sardorbek--Kuvondikov-blue?logo=github&logoColor=white)](https://github.com/Sardorbek-Kuvondikov?tab=repositories)
 
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack:
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
 [![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/)
@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 [![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
 
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 ![Sardorbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sardorbek-Kuvondikov&show_icons=true&theme=radical)
 
