@@ -51,5 +51,3 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ## 🏆 GitHub Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Sardorbek-Kuvondikov&theme=onedark)
-
-Thank you for visiting my profile! Feel free to reach out if you have any questions or just want to connect. Let's build something amazing together!
