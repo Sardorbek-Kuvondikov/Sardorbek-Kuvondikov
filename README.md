@@ -9,9 +9,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - **Open-Source Projects:** Actively contributing to various open-source projects and collaborating with the developer community.
 - **Personal Projects:** Building exciting projects in web development, machine learning, and cloud computing.
 - **Learning and Growth:** Continuously learning new technologies and improving my skills in software development.
-
-## 🌱 What I'm Learning
-- **TypeScript:** TypeScript checks data types at code time, allowing programmers to detect errors before they occur in the program.
   
 ## 💬 Ask Me About
 - Software development best practices
