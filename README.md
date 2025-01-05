@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ## ⚡ Fun Facts
 - I enjoy writing code and solving problems in code in different ways.
 - I like to solve problems.
-- In my free time, I enjoy traveling, watching movies, studying historical, stories, and research.
+- In my free time, I enjoy traveling, watching movies, reading historical stories, and researching.
 
 ## 📬 How to Reach Me:
 [![Email](https://img.shields.io/badge/Email-quvondiqovs06%40gmail.com-blue?logo=gmail&logoColor=white)](mailto:quvondiqovs06@gmail.com)  
