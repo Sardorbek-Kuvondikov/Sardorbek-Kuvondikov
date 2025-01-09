@@ -1,24 +1,57 @@
-# 👋 Hi there, I'm Sardorbek Khuvondikhov
-Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in creating innovative solutions and contributing to open-source projects.
-- 💻 **Currently working on:** Developing web applications with modern JavaScript frameworks
-- 🧑‍💻 **Coder:** JavaScript
-- 🌱 **UI/Design tools:** React, Material-UI, Ant-Design, Redux TailwindCSS
-- 🌐 **Check out my portfolio:** https://cvkhuvondikhov.netlify.app/
-
-## 🔭 What I'm Working On
-- **Open-Source Projects:** Actively contributing to various open-source projects and collaborating with the developer community.
-- **Personal Projects:** Building exciting projects in web development, machine learning, and cloud computing.
-- **Learning and Growth:** Continuously learning new technologies and improving my skills in software development.
-  
-## 💬 Ask Me About
-- Software development best practices
-- Open-source contributions
-- Web development technologies
-  
-## ⚡ Fun Facts
-- I enjoy writing code and solving problems in code in different ways.
-- I like to solve problems.
-- In my free time, I enjoy traveling, watching movies, reading historical stories, and researching.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00abf0&height=70&section=header"/>
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=00abf0&center=true&vCenter=true&width=435&height=25%&lines=Welcome+to+My+Profile+!;Hello+there+!;My+name+is+Sardorbek" alt="Typing SVG" /></a>
+</div> 
+<br/>
+<details open>
+    <summary align="center"><h2> <img alt="GIF" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="30px" /> Briefly about me </h2></summary>
+<!--     <p> A little more detail: </h3> -->
+    <ul>
+        <li><strong>💻 Currently working on: </strong> Developing web applications with modern JavaScript frameworks </li></br>
+        <li><strong>🧑‍💻 Coder: </strong> JavaScript </li></br>
+        <li><strong>🌱 UI/Design tools: </strong> React, Material-UI, Ant-Design, Redux TailwindCSS </li></br>
+        <li><strong>🌐 Check out my portfolio: </strong> https://cvkhuvondikhov.netlify.app/</li></br>
+<!--         <li><a><img alt="GIF" src="./Image/learninig.gif" width="30px" />&nbsp; I am always learning something new.</a></li><br> -->
+    </ul>
+</details>
+</br>
+<details open>
+    <summary align="center"> <h2> 🔭 What I'm Working On </h2> </summary>
+    <ul>
+        <li><strong> Open-Source Projects: </strong> Actively contributing to various open-source projects and collaborating with the developer community. </li></br>
+        <li><strong> Personal Projects: </strong> Web development and creating interesting projects. </li></br>
+        <li><strong> Learning and Growth: </strong> Continuously learning new technologies and improving my skills in software development. </li></br>
+    </ul>
+<br>
+</details> 
+</br>
+<details open>
+    <summary align="center"> <h2> 💬 Ask Me About </h2> </summary>
+    <ul>
+        <li> Software development best practices. </li></br>
+        <li> Open-source contributions. </li></br>
+        <li> Web development technologies. </li></br>
+    </ul>
+<br>
+</details> 
+</br>
+<details open>
+    <summary align="center"> <h2> ⚡ Fun Facts </h2> </summary>
+    <ul>
+        <li> I enjoy writing code and solving problems in code in different ways. </li></br>
+        <li> I like to solve problems. </li></br>
+        <li> In my free time, I enjoy traveling, watching movies, reading historical stories, and researching. </li></br>
+    </ul>
+<br>
+</details> 
+</br>
+<!-- <details open>
+    <summary align="center"> <h2> 📬 How to Reach Me: </h2> </summary>
+    <ul>
+        <li><a href="mailto:quvondiqovs06@gmail.com" style="text-decoration: none;">Email</a></li></br>
+    </ul>
+<br>
+</details>  -->
 
 ## 📬 How to Reach Me:
 [![Email](https://img.shields.io/badge/Email-quvondiqovs06%40gmail.com-blue?logo=gmail&logoColor=white)](mailto:quvondiqovs06@gmail.com)  
@@ -46,3 +79,9 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ## 🏆 GitHub Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Sardorbek-Kuvondikov&theme=onedark)
+
+<div align="center">
+</br>
+<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=00abf0&center=true&vCenter=true&width=435&height=25%&lines=Thank+you+for+visiting!;I'm+waiting for+you+again!;Have+a+good+day!" alt="Typing SVG" /></a>
+</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00abf0&height=70&section=footer"/>
