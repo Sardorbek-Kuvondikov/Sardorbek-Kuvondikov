@@ -18,9 +18,9 @@
 <details open>
     <summary align="center"> <h2> 🔭 What I'm Working On </h2> </summary>
     <ul>
-        <li><strong> Open-Source Projects: </strong> Actively contributing to various open-source projects and collaborating with the developer community. </li></br>
-        <li><strong> Personal Projects: </strong> Web development and creating interesting projects. </li></br>
-        <li><strong> Learning and Growth: </strong> Continuously learning new technologies and improving my skills in software development. </li></br>
+        <li><strong> 📚 Open-Source Projects: </strong> Actively contributing to various open-source projects and collaborating with the developer community. </li></br>
+        <li><strong> 💻 Personal Projects: </strong> Web development and creating interesting projects. </li></br>
+        <li><strong> 📈 Learning and Growth: </strong> Continuously learning new technologies and improving my skills in software development. </li></br>
     </ul>
 </details> 
 </br>
