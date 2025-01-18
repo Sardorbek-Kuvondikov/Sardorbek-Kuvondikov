@@ -11,7 +11,6 @@
         <li><strong>🧑‍💻 Coder: </strong> JavaScript </li></br>
         <li><strong>🌱 UI/Design tools: </strong> React, Material-UI, Ant-Design, Redux TailwindCSS </li></br>
         <li><strong>🌐 Check out my portfolio: </strong> <a href="https://cvkhuvondikhov.netlify.app/">Go to Portfolio</a> </li></br>
-<!--         <li><a><img alt="GIF" src="./Image/learninig.gif" width="30px" />&nbsp; I am always learning something new.</a></li><br> -->
     </ul>
 </details>
 </br>
