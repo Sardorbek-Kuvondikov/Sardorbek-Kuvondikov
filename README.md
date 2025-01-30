@@ -7,7 +7,7 @@
     <summary align="center"><h2> <img alt="GIF" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="30px" /> Briefly about me </h2></summary>
 <!--     <p> A little more detail: </h3> -->
     <ul>
-        <li><strong>💻 Currently working on: </strong> Developing web applications with modern JavaScript frameworks </li></br>
+        <li><strong>🚀 Currently working on: </strong> Developing web applications with modern JavaScript frameworks </li></br>
         <li><strong>🧑‍💻 Coder: </strong> JavaScript </li></br>
         <li><strong>🌱 UI/Design tools: </strong> React, Material-UI, Ant-Design, Redux TailwindCSS </li></br>
         <li><strong>🌐 Check out my portfolio: </strong> <a href="https://cvkhuvondikhov.netlify.app/">Go to Portfolio</a> </li></br>
@@ -18,7 +18,7 @@
     <summary align="center"> <h2> 🔭 What I'm Working On </h2> </summary>
     <ul>
         <li><strong> 📚 Open-Source Projects: </strong> Actively contributing to various open-source projects and collaborating with the developer community. </li></br>
-        <li><strong> 💻 Personal Projects: </strong> Web development and creating interesting projects. </li></br>
+        <li><strong> 🏗️ Personal Projects: </strong> Web development and creating interesting projects. </li></br>
         <li><strong> 📈 Learning and Growth: </strong> Continuously learning new technologies and improving my skills in software development. </li></br>
     </ul>
 </details> 
@@ -26,9 +26,9 @@
 <details open>
     <summary align="center"> <h2> 💬 Ask Me About </h2> </summary>
     <ul>
-        <li> Software development best practices. </li></br>
-        <li> Open-source contributions. </li></br>
-        <li> Web development technologies. </li></br>
+        <li> 💻 Software development best practices. </li></br>
+        <li> 🌍 Open-source contributions. </li></br>
+        <li> 🖥️ Web development technologies. </li></br>
     </ul>
 </details> 
 </br>
@@ -42,7 +42,7 @@
 </details> 
 </br>
 <details open>
-    <summary align="center"> <h2> 📬 How to Reach Me </h2> </summary>
+    <summary align="center"> <h2> 📬 How to Reach Me </h2></summary>
     
 [![Email](https://img.shields.io/badge/Email-quvondiqovs06%40gmail.com-blue?logo=gmail&logoColor=white)](mailto:quvondiqovs06@gmail.com)  
 [![Telegram](https://img.shields.io/badge/Telegram-@Sardorbek_deve1oper-blue?logo=telegram&logoColor=white)](https://t.me/Sardorbek_deve1oper)  
@@ -51,7 +51,7 @@
 </details> 
 <br>
 <details open>
-    <summary align="center"> <h2> 🛠️ Tech Stack </h2> </summary>
+    <summary align="center"> <h2> 🛠️ Tech Stack </h2></summary>
     <div align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img width="80" height="25" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img width="80" height="25" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"></a>
