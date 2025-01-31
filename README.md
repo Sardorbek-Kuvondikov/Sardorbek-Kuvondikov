@@ -35,9 +35,9 @@
 <details open>
     <summary align="center"> <h2> ⚡ Fun Facts </h2> </summary>
     <ul>
-        <li> I enjoy writing code and solving problems in code in different ways. </li></br>
-        <li> I like to solve problems. </li></br>
-        <li> In my free time, I enjoy traveling, watching movies, reading historical stories, and researching. </li></br>
+        <li> ✏️ I enjoy writing code and solving problems in code in different ways. </li></br>
+        <li> 🧠 I like to solve problems. </li></br>
+        <li> ✈️ In my free time, I enjoy traveling, watching movies, reading historical stories, and researching. </li></br>
     </ul>
 </details> 
 </br>
