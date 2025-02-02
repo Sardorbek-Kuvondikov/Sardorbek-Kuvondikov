@@ -7,10 +7,10 @@
     <summary align="center"><h2> <img alt="GIF" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="30px" /> Briefly about me </h2></summary>
 <!--     <p> A little more detail: </h3> -->
     <ul>
-        <li><strong>🚀 Currently working on: </strong> Developing web applications with modern JavaScript frameworks </li></br>
-        <li><strong>🧑‍💻 Coder: </strong> JavaScript </li></br>
-        <li><strong>🌱 UI/Design tools: </strong> React, Material-UI, Ant-Design, Redux TailwindCSS </li></br>
-        <li><strong>🌐 Check out my portfolio: </strong> <a href="https://cvkhuvondikhov.netlify.app/">Go to Portfolio</a> </li></br>
+        <li><strong> 🚀 Currently working on: </strong> Developing web applications with modern JavaScript frameworks </li></br>
+        <li><strong> 🧑‍💻 Coder: </strong> JavaScript </li></br>
+        <li><strong> 🌱 UI/Design tools: </strong> React, Material-UI, Ant-Design, Redux TailwindCSS </li></br>
+        <li><strong> 🌐 Check out my portfolio: </strong> <a href="https://cvkhuvondikhov.netlify.app/">Go to Portfolio</a> </li></br>
     </ul>
 </details>
 </br>
