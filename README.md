@@ -46,7 +46,7 @@
     
 [![Email](https://img.shields.io/badge/Email-quvondiqovs06%40gmail.com-blue?logo=gmail&logoColor=white)](mailto:quvondiqovs06@gmail.com)  
 [![Telegram](https://img.shields.io/badge/Telegram-@Sardorbek_deve1oper-blue?logo=telegram&logoColor=white)](https://t.me/Sardorbek_deve1oper)  
-[![Instagram](https://img.shields.io/badge/Instagram-sardorbek_deve1oper-blue?logo=instagram&logoColor=white)](https://www.instagram.com/sardorbek_deve1oper/profilecard)  
+[![Instagram](https://img.shields.io/badge/Instagram-sardorbek_deve1oper-blue?logo=instagram&logoColor=white)](https://www.instagram.com/mr_sardorbek_coder)  
 [![GitHub](https://img.shields.io/badge/GitHub-Sardorbek--Kuvondikov-blue?logo=github&logoColor=white)](https://github.com/Sardorbek-Kuvondikov?tab=repositories)
 </details> 
 <br>
